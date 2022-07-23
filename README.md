@@ -6,7 +6,7 @@ Rule of textlint in order to fix my typos I often do and not detected by spell c
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install textlint-rule-fix-my-typos
+    npm install shotaizu/textlint-rule-fix-my-typos
 
 ## Usage
 
